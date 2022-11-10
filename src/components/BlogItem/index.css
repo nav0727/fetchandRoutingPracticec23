@@ -1,0 +1,31 @@
+.list {
+  border: 1px solid #2f4f4f;
+  width: 78vw;
+  list-style-type: none;
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
+  padding: 30px;
+}
+.avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  margin-right: 10px;
+}
+.image {
+  width: 35vw;
+  border-radius: 10px;
+  margin-right: 20px;
+  max-height: 250px;
+}
+.con {
+  display: flex;
+}
+
+p {
+  color: #8e8e8e;
+}
+h2 {
+  color: #000000;
+}

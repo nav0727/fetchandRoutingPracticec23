@@ -1,0 +1,14 @@
+.heading {
+  text-align: center;
+}
+.img {
+  width: 75vw;
+  height: 45vh;
+  border-radius: 10px;
+}
+.bg {
+  padding: 30px;
+}
+.avatar {
+  margin-bottom: 10px;
+}
